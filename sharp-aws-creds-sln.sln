@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharp-aws-creds", "sharp-aws-creds\sharp-aws-creds.csproj", "{6FA2257B-A63E-4907-AABC-64A43A63A587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA2257B-A63E-4907-AABC-64A43A63A587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA2257B-A63E-4907-AABC-64A43A63A587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA2257B-A63E-4907-AABC-64A43A63A587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA2257B-A63E-4907-AABC-64A43A63A587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
